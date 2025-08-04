@@ -12,23 +12,20 @@ This Power BI report analyzes dining out inspection and violation data. It highl
 
 ---
 
+## 📸 Report Preview
+
+### 📍 Overview Page
+![Overview](images/overview.png)
+
+### 📍 Violations by Risk Category
+![Violations](images/violations.png)
+
+> _(You can add more screenshots as needed — just place them in the `images/` folder and update the names here)_
+
 ---
 
 ## 📁 Files Included
 
-- `Dining Out inspection and violation.pbix`: Power BI Desktop file
+- `Dining Out inspection and violatio
 
-You can download and open the `.pbix` file in [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/).
 
----
-
-## 👩‍💻 Author
-
-**Aliza Hashmi**  
-🎓 Postgraduate Diploma in Data Sciences & Generative AI (NEDUET)  
-🔗 [GitHub Profile](https://github.com/AlizaHashmi22)  
-🔗 [LinkedIn](https://linkedin.com/in/aliza-hashmi)
-
----
-
-> “Clean data tells the clearest story.”
